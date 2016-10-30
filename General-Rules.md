@@ -30,7 +30,7 @@
 ![Long post](https://monosnap.com/file/QGZ4OXQUxUyWjfr94amnZrjpLD30mJ.png)
 ![Checking](https://monosnap.com/file/ztxFR9iGfaRhsqcDKvmUvdnvjf1Us7.png)
 
-## Reference Resource:
+## Reference Resource
 ###### Writing
 - http://thewritepractice.com/blog-post-length/
 - https://yoast.com/use-content-analysis-yoast-seo/
