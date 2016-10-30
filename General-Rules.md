@@ -11,7 +11,7 @@
 - Using Skype, Slack to get in touch.
 
 ## Submit Meeting
-- Submit Review: by ** 12:00 AM on Wed & Sun ** (Writer)
+- Submit Review: by **12:00 AM on Wed & Sun** (Writer)
 - Feedback: by ** 5:00 PM Wed & Sun ** (Editor)
 - Meeting: at ** 6:00 PM on Wed & Sun ** (15-20 mins)
 
