@@ -5,16 +5,16 @@
 3. [Process Review](#process-preview) 
 
 
-# [Working time]
+# Working time
 - The working time depends on each writer.
 - Using Skype, Slack to get in touch.
 
-# [Submit Meeting]
+# Submit Meeting
 - Submit Review: by 12:00 AM on Wed & Sun (Writer)
 - Feedback: by 5:00 PM Wed & Sun (Editor)
 - Meeting: at 6:00 PM on Wed & Sun (15-20 mins)
 
-# [Process Review]
+# Process Review
 - Process review should be followed by diagram below:
 
 ![Review Proccess](https://monosnap.com/file/C3v8yfeOvPVAL8WvDxkXAVvU81BqXh.png)
