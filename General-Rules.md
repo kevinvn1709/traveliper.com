@@ -17,17 +17,14 @@
 
 ## Process Review
 - Process review should be followed by diagram below:
-
 ![Review Proccess](https://monosnap.com/file/e3E2QjfmjtGQSCKsD75EJqYl7dEKZi.png)
 
 ## Posting Required:
-- A post must be at least ** 700 words ** as standard length for professional journalism [Reference here](http://thewritepractice.com/blog-post-length/)
-- Content should following ** Readability and SEO Standard ** from Yoast [Reference here](http://thewritepractice.com/blog-post-length/)
-- 
-
-
-![Long post](https://monosnap.com/file/oB9PcaGBePm5WAygyGtCBd66RKwcXj.png)
-
+- A post must be ** unique ** and at least ** 700 words ** as standard length for professional journalism - [Reference here](http://thewritepractice.com/blog-post-length/)
+- Content should following ** Readability and SEO Standard ** from Yoast - [Reference here](http://thewritepractice.com/blog-post-length/)
+- Needs a feature Image and at least 2 images for each post.
+![Long post](https://monosnap.com/file/QGZ4OXQUxUyWjfr94amnZrjpLD30mJ.png)
+![Checking](https://monosnap.com/file/ztxFR9iGfaRhsqcDKvmUvdnvjf1Us7.png)
 
 Refs:
 Length Post:
