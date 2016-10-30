@@ -1,17 +1,17 @@
 # General Rules
 
 1. [Working Time & Stack](#working-time)
-2. [Submit & Meeting](#submit-&-meeting)
+2. [Submit & Meeting](#submit-meeting)
 3. [Review Process](#review-process) 
 4. [Posting Require] (#posting-require)
 5. [Reference Resource](reference-resource)
 
 
 ## Working time
-- The working time depends on each writer/editor (at least 2 hours/day)
+- The working time depends on each writer/editor (at least **2 hours/day**)
 - Using Skype, Slack to get in touch.
 
-## Submit & Meeting
+## Submit Meeting
 - Submit for Review by **12:00 AM on Wed & Sun** (Writer)
 - Feedback by **5:00 PM Wed & Sun** (Editor)
 - Meeting at **6:00 PM on Wed & Sun** (15-20 mins)
