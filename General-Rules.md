@@ -1,7 +1,7 @@
 # General Rules
 
-1. [Working Time & Stack](https://github.com/kevinvn1709/traveliper.com#working-time)
-2. [Submit & Meeting](https://github.com/kevinvn1709/traveliper.com#submit-meeting)
+1. [Working Time & Stack](#working-time)
+2. [Submit & Meeting](#submit-meeting)
 3. [Process Review](#process-preview) 
 
 
