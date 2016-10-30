@@ -9,9 +9,11 @@
 - Using Skype, Slack to get in touch.
 
 [Submit & Meeting](#submit-meeting)
-Submit Review: by 12:00 AM on Wed & Sun (Writer)
-Feedback: by 5:00 PM Wed & Sun (Editor)
-Meeting: at 6:00 PM on Wed & Sun (15-20 mins)
+- Submit Review: by 12:00 AM on Wed & Sun (Writer)
+- Feedback: by 5:00 PM Wed & Sun (Editor)
+- Meeting: at 6:00 PM on Wed & Sun (15-20 mins)
 
 [Process Review](#process-preview) 
-New Post => Save Draft => Submit Review => Pending => Needs to Improve / Published
+Process review should be followed by diagram below:
+
+![Review Proccess](http://take.ms/FfxnF)
