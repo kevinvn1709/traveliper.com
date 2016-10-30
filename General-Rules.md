@@ -1,26 +1,26 @@
 # General Rules
 
 1. [Working Time & Stack](#working-time)
-2. [Submit & Meeting](#submit-meeting)
-3. [Process Review](#process-review) 
-4. [Posting Required] (#posting-required)
+2. [Submit & Meeting](#submit-&-meeting)
+3. [Review Process](#review-process) 
+4. [Posting Require] (#posting-require)
 5. [Reference Resource](reference-resource)
 
 
 ## Working time
-- The working time depends on each writer.
+- The working time depends on each writer/editor (at least 2 hours/day)
 - Using Skype, Slack to get in touch.
 
-## Submit Meeting
-- Submit Review: by **12:00 AM on Wed & Sun** (Writer)
-- Feedback: by **5:00 PM Wed & Sun** (Editor)
-- Meeting: at **6:00 PM on Wed & Sun** (15-20 mins)
+## Submit & Meeting
+- Submit for Review by **12:00 AM on Wed & Sun** (Writer)
+- Feedback by **5:00 PM Wed & Sun** (Editor)
+- Meeting at **6:00 PM on Wed & Sun** (15-20 mins)
 
-## Process Review
+## Review Process
 - Process review should be followed by diagram below:
 ![Review Proccess](https://monosnap.com/file/e3E2QjfmjtGQSCKsD75EJqYl7dEKZi.png)
 
-## Posting Required:
+## Posting Require
 - Content of each post must be must be **unique** - [Checking with tools](http://www.copyscape.com/)
 - A post at least **700 words** as standard length for professional journalism - [Reference here](http://thewritepractice.com/blog-post-length/)
 - Content should following **Readability and SEO Standard** from Yoast - [Reference here](http://thewritepractice.com/blog-post-length/)
