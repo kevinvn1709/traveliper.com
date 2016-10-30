@@ -31,15 +31,15 @@
 ![Checking](https://monosnap.com/file/ztxFR9iGfaRhsqcDKvmUvdnvjf1Us7.png)
 
 ## Reference Resource:
-- Writing
-..* http://thewritepractice.com/blog-post-length/
-..* https://yoast.com/use-content-analysis-yoast-seo/
+###### Writing
+- http://thewritepractice.com/blog-post-length/
+- https://yoast.com/use-content-analysis-yoast-seo/
 
-- Searching Images
-..* http://www.imagesource.com/
-..* http://www.freepik.com/
-..* http://huaban.com/
+###### Searching Images
+- http://www.imagesource.com/
+- http://www.freepik.com/
+- http://huaban.com/
 
-- Checking content:
-..* http://www.copyscape.com/
-..* https://ludwig.guru
+###### Checking content:
+- http://www.copyscape.com/
+- https://ludwig.guru
